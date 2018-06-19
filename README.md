@@ -1,0 +1,2 @@
+# Actividad_Colecciones
+1.Escribir programas que manipulen información seleccionando y utilizando los tipos avanzados de datos facilitados por el lenguaje: 1.1.Escribir programas que utilicen arrays .. 1.2.Reconocer las librerias de clases relacionadas con la representación y manipulación de colecciones 1.3.Utilizar las clases básicas (listas, pilas, colas, mapas, ...) para almacenar y procesar información. 1.4.Utilizar iteradores para recorrer los elementos de las colecciones. 1.5.Reconocer las características y ventajas de cada una de las colecciones de datos disponibles.
